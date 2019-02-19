@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>io.swagger</groupId>
+  <artifactId>swagger-core</artifactId>
+  <version>1.5.22-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20190219150830</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.5.22-SNAPSHOT</value>
+        <updated>20190219150830</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.5.22-SNAPSHOT</value>
+        <updated>20190219150830</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
